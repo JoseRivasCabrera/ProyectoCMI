@@ -162,10 +162,14 @@ footer {
     align-items: center;
   }
 
-  .header-element_logo,
-  .header-element_contact,
+  .header-element_logo{
+    width: 20%;
+  }
+  .header-element_contact {
+    width: 20%;
+  }
   .header-element_tittle {
-    width: 100%;
+    width: 60;
     text-align: center;
   }
 
@@ -181,11 +185,11 @@ footer {
   }
 
   .logo-cmi {
-    width: 40%;
+    width: 100%;
   }
 
   .bottom-contact {
-    width: 40%;
+    width: 60%;
   }
 
 
